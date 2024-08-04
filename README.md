@@ -14,4 +14,6 @@
 - 添加 Elytra Mining 方便挖掘
 - 添加 GTNN 日梦大师
 - 添加 Twist Space Technology
-- （客户端）添加 RawInput
+- ~~（客户端）添加 RawInput~~
+  - SU 自带 RawInput，不再需要 RawInput 了。
+- （客户端）启用 SU 的 RawInput 功能
